@@ -21,7 +21,7 @@ In this project we will be focusing on the following:
     - Bag of Words Techniques
     - Kaggle Dataset: https://www.kaggle.com/datasets/datasnaek/mbti-type
 - PieChart
-    - Determine the distribution of type of words
+    - Determine the distribution of type of words: Nouns, Verbs, etc.
     - ![esfj](https://user-images.githubusercontent.com/100020447/208320992-2ab8fe7b-7e65-40df-8f04-a2d5fe4d8564.png) ESFJ
     - ![entp](https://user-images.githubusercontent.com/100020447/208321004-02fab3d8-2562-4b2e-964f-d2420cc54d01.png)ENTP
 
