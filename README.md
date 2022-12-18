@@ -24,6 +24,10 @@ In this project we will be focusing on the following:
     - Determine the distribution of type of words
 - WordCloud
     - Determine words with the higher weights on each MBTI personality class
+    ![entj 4 32 29 PM](https://user-images.githubusercontent.com/100020447/208320877-8ed67a02-ce29-451f-8573-2444f47774c4.png)
+![entj 4 09 12 PM](https://user-images.githubusercontent.com/100020447/208320881-6b3c4248-192b-418e-bc4e-612f5327daa6.png)![esfj 4 28 13 PM](https://user-images.githubusercontent.com/100020447/208320882-77292dbc-d6a0-44fc-945d-aa059dbb1875.png)
+
+
 - Hyperparameter Optimization with Hyperband
     - Determine the best configurations of number of hidden units, batch size, dropout, and learning rate for RNN, LSTM, GRU and BiLSTM models to enable best accuracy
     - HyperbandScheduler()
