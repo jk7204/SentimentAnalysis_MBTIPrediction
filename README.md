@@ -11,19 +11,43 @@ In this project we will be focusing on the following:
     - J (Judging) vs. P (Perceiving)
 - The development and application of multiple RNN variant models to make predictions on MBTI personality types with the obtained results from the sentiment analysis.
 
-
-## Content of Repository
-Total of ... files:
-- DataPrepocessing.ipynb: Tokenization, Word Lemmatization and Train-Test Split for the Kaggle Dataset
-   - Kaggle Dataset: https://www.kaggle.com/datasets/datasnaek/mbti-type
-- WordCloud & Pie Chart
+## Content of repository:
+### Total of 1 files consisting of：
+- DataPrepocessing: 
+    - Data Cleaning: Removing unnecessary words and symbols
+    - Word Lemmatization: Tokenize and lemmatize words to original form 
+    - Distribution Identification: Draw distribution data for each MBTI personality class
+    - Train-Validation-Test Split on Dataset: Training-75%, Validation-15%, Test-15%
+    - Bag of Words Techniques
+    - Kaggle Dataset: https://www.kaggle.com/datasets/datasnaek/mbti-type
+- PieChart
+    - Determine the distribution of type of words
+- WordCloud
+    - Determine words with the higher weights on each MBTI personality class
 - Hyperparameter Optimization with Hyperband
+    - Determine the best configurations of number of hidden units, batch size, dropout, and learning rate for RNN, LSTM, GRU and BiLSTM models to enable best accuracy
+    - HyperbandScheduler()
 - RNN vs. RNN with Attention Layer
+    - Build RNN and RNN with Attention Layer with the configurations with best accuracy obtained from running hyperband
+    - Compare the performance of both models and determine if there exist improvement after adding Attention Layer
 - LSTM vs. LSTM with Attention Layer
+    - Build LSTM and LSTM with Attention Layer with the configurations with best accuracy obtained from running hyperband
+    - Compare the performance of both models and determine if there exist improvement after adding Attention Layer
 - GRU vs. GRU with Attention Layer
+    - Build GRU and GRU with Attention Layer with the configurations with best accuracy obtained from running hyperband
+    - Compare the performance of both models and determine if there exist improvement after adding Attention Layer
 - BiLSTM vs. BiLSTM with Attention Layer
+    - Build BiLSTM and BiLSTM with Attention Layer with the configurations with best accuracy obtained from running hyperband
+    - Compare the performance of both models and determine if there exist improvement after adding Attention Layer
+- Comparison of models and model variants with Attention Layer
+    - Model with Best Accuracy
+    - Performance improvement with Attention Layer
 
+## Result
+- WordCloud
+- Pie Chart
+- Accuracy Comparison
+- Best Model
+- Test on Trump Data??
 
-## Results
-- Comparison of Accuracy 
 
