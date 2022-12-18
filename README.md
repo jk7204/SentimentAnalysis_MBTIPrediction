@@ -22,6 +22,9 @@ In this project we will be focusing on the following:
     - Kaggle Dataset: https://www.kaggle.com/datasets/datasnaek/mbti-type
 - PieChart
     - Determine the distribution of type of words
+    - ![esfj](https://user-images.githubusercontent.com/100020447/208320992-2ab8fe7b-7e65-40df-8f04-a2d5fe4d8564.png) ESFJ![entp](https://user-images.githubusercontent.com/100020447/208321004-02fab3d8-2562-4b2e-964f-d2420cc54d01.png)
+ENTP
+
 - WordCloud
     - Determine words with the higher weights on each MBTI personality class
     ![entj 4 32 29 PM](https://user-images.githubusercontent.com/100020447/208320877-8ed67a02-ce29-451f-8573-2444f47774c4.png) ENTJ
