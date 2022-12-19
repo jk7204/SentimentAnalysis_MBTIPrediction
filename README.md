@@ -21,17 +21,9 @@ In this project we will be focusing on the following:
     - Bag of Words Techniques
     - Kaggle Dataset: https://www.kaggle.com/datasets/datasnaek/mbti-type
 - PieChart
-    - Determine the distribution of type of words: Nouns, Verbs, etc.
-    - ![esfj](https://user-images.githubusercontent.com/100020447/208320992-2ab8fe7b-7e65-40df-8f04-a2d5fe4d8564.png) ESFJ
-    - ![entp](https://user-images.githubusercontent.com/100020447/208321004-02fab3d8-2562-4b2e-964f-d2420cc54d01.png)ENTP
-
+    - Determine the distribution of type of words: Nouns, Verbs, etc
 - WordCloud
     - Determine words with the higher weights on each MBTI personality class
-    - ![entj 4 32 29 PM](https://user-images.githubusercontent.com/100020447/208320877-8ed67a02-ce29-451f-8573-2444f47774c4.png) ENTJ
-    - ![entj 4 09 12 PM](https://user-images.githubusercontent.com/100020447/208320881-6b3c4248-192b-418e-bc4e-612f5327daa6.png) ENTP
-    - ![esfj 4 28 13 PM](https://user-images.githubusercontent.com/100020447/208320882-77292dbc-d6a0-44fc-945d-aa059dbb1875.png) ESTJ
-
-
 - Hyperparameter Optimization with Hyperband
     - Determine the best configurations of number of hidden units, batch size, dropout, and learning rate for RNN, LSTM, GRU and BiLSTM models to enable best accuracy
     - HyperbandScheduler()
@@ -53,9 +45,25 @@ In this project we will be focusing on the following:
 
 ## Result
 - WordCloud
+    - ![entj 4 32 29 PM](https://user-images.githubusercontent.com/100020447/208320877-8ed67a02-ce29-451f-8573-2444f47774c4.png) ENTJ
+    - ![entj 4 09 12 PM](https://user-images.githubusercontent.com/100020447/208320881-6b3c4248-192b-418e-bc4e-612f5327daa6.png) ENTP
+    - ![esfj 4 28 13 PM](https://user-images.githubusercontent.com/100020447/208320882-77292dbc-d6a0-44fc-945d-aa059dbb1875.png) ESTJ
 - Pie Chart
+    - ![esfj](https://user-images.githubusercontent.com/100020447/208320992-2ab8fe7b-7e65-40df-8f04-a2d5fe4d8564.png) ESFJ
+    - ![entp](https://user-images.githubusercontent.com/100020447/208321004-02fab3d8-2562-4b2e-964f-d2420cc54d01.png)ENTP
 - Accuracy Comparison
-- Best Model
-- Test on Trump Data??
+    - RNN: 
+    - RNN with Attention:
+    - LSTM:
+    - LSTM with Attention:
+    - GRU:
+    - GRU with Attention:
+    - BiLSTM:
+    - BiLSTM with Attention:
+- Best Model in terms of accuracy
+    - Accuracy on training:
+    - Accuracy on test:
+- Improvement of performance with Attention Layer
+
 
 
