@@ -52,17 +52,17 @@ In this project we will be focusing on the following:
     - ![esfj](https://user-images.githubusercontent.com/100020447/208320992-2ab8fe7b-7e65-40df-8f04-a2d5fe4d8564.png) ESFJ
     - ![entp](https://user-images.githubusercontent.com/100020447/208321004-02fab3d8-2562-4b2e-964f-d2420cc54d01.png)ENTP
 - Accuracy Comparison
-    - RNN: 
-    - RNN with Attention:
-    - LSTM:
-    - LSTM with Attention:
-    - GRU:
-    - GRU with Attention:
-    - BiLSTM:
-    - BiLSTM with Attention:
+    - RNN: 59.4%
+    - RNN with Attention: 59.7%
+    - LSTM: 58%
+    - LSTM with Attention:60.5%
+    - GRU: 59.2%
+    - GRU with Attention: 60.3%
+    - BiLSTM: 59.8%
+    - BiLSTM with Attention: 61.3%
 - Best Model in terms of accuracy
-    - Accuracy on training:
-    - Accuracy on test:
+    - Accuracy on training: BiLSTM
+    - Accuracy on test: BiLSTM with Attention
 - Improvement of performance with Attention Layer
 
 
