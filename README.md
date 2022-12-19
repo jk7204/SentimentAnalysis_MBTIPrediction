@@ -66,4 +66,13 @@ In this project we will be focusing on the following:
 - Improvement of performance with Attention Layer
 
 
-
+# References
+- https://www.16personalities.com/personality-types 
+- https://www.kaggle.com/datasets/datasnaek/mbti-type 
+- https://arxiv.org/pdf/2201.08717.pdf 
+- https://ieeexplore.ieee.org/document/9578983 
+- https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6839354.pdf https://github.com/ianscottknight/Predicting-Myers-Briggs-Type-Indicator-with-Recurrent-Neura l-Networks (RNN and embedding layer) 
+- https://github.com/udit19281/ML-Project (Naive Bayes & SVM) 
+- https://medium.com/@dolly19304/personality-prediction-using-myers-briggs-type-indicator-568 88416e87c
+- https://medium.com/geekculture/10-hyperparameters-to-keep-an-eye-on-for-your-lstm-model-and-other-tips-f0ff5b63fcd4
+- https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05
